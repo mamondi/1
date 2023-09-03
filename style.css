@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color:rgb(40, 67, 184);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(238, 238, 238);
+}
+h2{
+    color: rgb(119, 119, 119);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.lower {
+    font-size: small;
+    font-style: oblique;
+}
